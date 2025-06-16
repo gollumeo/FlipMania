@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\FlipMania.Application\FlipMania.Application.csproj" />
+    <ProjectReference Include="..\FlipMania.Domain\FlipMania.Domain.csproj" />
+    <ProjectReference Include="..\FlipMania.Persistence\FlipMania.Persistence.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

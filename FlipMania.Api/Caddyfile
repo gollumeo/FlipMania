@@ -1,0 +1,4 @@
+flip-mania.test {
+    reverse_proxy localhost:5146
+    tls internal
+}
