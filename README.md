@@ -1,5 +1,9 @@
 ﻿# FlipMania
 
+# 🛑 PROJECT ON HOLD DUE TO TSM NOT ISSUING NEW API KEYS FOR NOW.
+
+---
+
 **FlipMania** is a real-time opportunity engine for the World of Warcraft Auction House, designed for players who want to maximize their goldmaking by capitalizing on market inefficiencies across servers.
 
 ## Purpose
